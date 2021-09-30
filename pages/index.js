@@ -26,7 +26,7 @@ export default function Home() {
                   de cariño + Inspiración
                 </span>
               </h1>
-              <p className="text-base sm:text-xl lg:text-2xl my-0 sm:my-4 lg:my-6">
+              <p className="text-base leading-tight sm:text-xl lg:text-2xl my-1 sm:my-4 lg:my-6">
                 Este Día de la Madre Rich’s es tu aliado perfecto para
                 agasajarla con los postres más deliciosos.
               </p>
@@ -54,7 +54,7 @@ export default function Home() {
               tips que necesitás para lograr las creaciones más deliciosas.
             </p>
           </article>
-          <article>Hola</article>
+          <article>FORM</article>
         </section>
         <section className="lg:container py-4 lg:py-8 my-4">
           <div className="w-[80%] lg:w-full mx-auto border-b-2 border-[#F60845]"></div>
@@ -78,15 +78,15 @@ export default function Home() {
         </section>
         <section className="container pt-4 pb-12 my-4">
           <h2 className="text-sec text-5xl leading-none sm:text-6xl lg:text-7xl text-[#F60845] text-center">{`Encontrá tu punto rich's más cercano`}</h2>
-          <h3 className="text-2xl leading-tight sm:text-3xl lg:text-[32px] text-[#F60845] md:font-bold lg:leading-snug text-center mt-6 lg:my-2">
+          <h3 className="text-[22px] leading-tight sm:text-3xl lg:text-[32px] text-[#F60845] md:font-bold lg:leading-snug text-center mt-6 lg:my-2">
             y conseguí todo lo que necesitás para sorprender a mamá en su día.
           </h3>
-          <p className="text-lg lg:text-xl text-center my-6">
+          <p className="text-base leading-snug lg:text-xl text-center mt-6">
             Descubrí todo lo que podés crear con nuestra amplia y versátil
             variedad de productos <br />
-            <span className="font-bold">
-              ¿Te animás a preparar los postres más deliciosos?
-            </span>
+          </p>
+          <p className="text-base leading-snug lg:text-xl font-bold text-center mt-2 lg:mt-0 mb-8">
+            ¿Te animás a preparar los postres más deliciosos?
           </p>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             <div className="lg:justify-self-end lg:px-4">
