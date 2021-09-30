@@ -1,0 +1,107 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: LandingPage_Generica_BK.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 1440 px x 4906.4316 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Drina (OTF)
+Alright Sans Ultra (OTF)
+Alright Sans Regular Regular (TrueType)
+AlrightSans-Medium (TrueType)
+AlrightSans-Bold (TrueType)
+AlrightSans-Black (TrueType)
+Verdana (OTF)
+Verdana Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/BTC_BG_2.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2608K, 938 by 712 pixels
+Dimensions: 647.46 by 491.462 points 
+Resolution: 104.309 by 104.309 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/CELULAR.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 13282K, 2576 by 1320 pixels
+Dimensions: 563.581 by 288.792 points 
+Resolution: 329.095 by 329.095 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/youtube
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5337K, 1558 by 877 pixels
+Dimensions: 510.083 by 287.126 points 
+Resolution: 219.917 by 219.917 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/Halloween_CCA_BlackCake.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7500K, 1600 by 1600 pixels
+Dimensions: 370.973 by 370.973 points 
+Resolution: 310.535 by 310.535 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/Halloween_CCA_DripGhost.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7500K, 1600 by 1600 pixels
+Dimensions: 370.973 by 370.973 points 
+Resolution: 310.535 by 310.535 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/Halloween_CCA_MonsterCake.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7500K, 1600 by 1600 pixels
+Dimensions: 370.972 by 370.972 points 
+Resolution: 310.535 by 310.535 pixels per inch
+
+
+/Usuarios/jhosep/Escritorio/CLIENTES/PASAPORTE/RICH'S/PERU/Setiembre/2309/Landing page generica - BK/LandingPage_Generica_BK_Folder/Links/Cabecera.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3012K, 1440 by 714 pixels
+Dimensions: 1440 by 714 points 
+Resolution: 72 by 72 pixels per inch

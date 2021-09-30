@@ -4,32 +4,21 @@ export default function Home() {
   return (
     <>
       <header>
-        <div className="w-full h-0 overflow-hidden relative pb-[64.20%] sm:pb-[60.20%] md:pb-[56.25%] xl:pb-[40.31%]">
+        <div className="w-full h-0 overflow-hidden relative pb-[64.20%] sm:pb-[60.20%] md:pb-[49.58%] xl:pb-[49.58%]">
           <img
-            src="/portada.png"
+            src="/2/Cabecera.png"
             alt="portada"
             className="absolute top-0 w-full h-full object-cover"
           />
-          <div className="container absolute h-full w-full top-0 flex flex-col">
-            <div className="py-4 pb-2 sm:py-8 lg:pt-14 lg:pb-16">
-              <img
-                src="https://www.richs.com.pe/wp-content/uploads/2020/02/Richs-logo-1.svg"
-                width="320"
-                alt="Richs"
-                className="w-[200px] sm:w-64 md:w-72 lg:w-80"
-              />
-            </div>
+          <div className="container absolute h-full w-full top-0 flex flex-col justify-center">
             <div className="w-[90%] max-w-xl">
-              <h1 className="text-3xl sm:text-5xl lg:text-6xl text-[#F60845] leading-none font-black">
-                MAMÁ ES LA <br /> MEZCLA PERFECTA{' '}
-                <span className="block text-2xl sm:text-4xl lg:text-[40px] font-normal lg:pt-2">
-                  de cariño + Inspiración
+              <h1 className="text-3xl sm:text-5xl lg:text-6xl text-white leading-none font-black">
+                ¡CELEBRA ESTE
+                <span className="block text-4xl sm:text-6xl lg:text-7xl">
+                  HALLOWEEN
                 </span>
+                {`JUNTO CON RICH'S!`}
               </h1>
-              <p className="text-base leading-tight sm:text-xl lg:text-2xl my-1 sm:my-4 lg:my-6">
-                Este Día de la Madre Rich’s es tu aliado perfecto para
-                agasajarla con los postres más deliciosos.
-              </p>
             </div>
           </div>
         </div>
@@ -41,20 +30,76 @@ export default function Home() {
         >
           <article className="lg:px-6">
             <img
-              src="/productos.png"
+              src="/2/BTC_BG_2.png"
               alt="Productos"
               className="w-full object-cover"
             />
-            <h2 className="text-[28px] leading-tight sm:text-4xl lg:text-5xl text-[#F60845] font-black my-2 lg:my-6">
-              DESCUBRÍ TODO LO QUE PODÉS CREAR CON RICH’S
+            <h2 className="text-[28px] leading-tight sm:text-4xl lg:text-5xl text-[#D21145] font-black my-2 lg:my-6">
+              ¡SÚMATE A NUESTRA COMUNIDAD!
             </h2>
             <p className="text-lg lg:text-xl leading-snug">
-              Dejanos tus datos para sumarte a la comunidad de Rich’s: Recibí el
-              recetario completo del Día de la Madre, las últimas novedades y
-              tips que necesitás para lograr las creaciones más deliciosas.
+              {`Déjanos tus datos y descarga el recetario completo 
+							de Halloween con las últimas novedades y consejos 
+							de nuestros chefs, para hacer de `}
+              <span className="font-bold">{`Rich's tu mejor 
+							aliado en la cocina`}</span>
             </p>
           </article>
           <article>FORM</article>
+        </section>
+        <section className="container pt-4 pb-12 my-4">
+          <h2 className="text-2xl leading-none sm:text-3xl lg:text-5xl font-bold text-center">{`¡DESCUBRE CON RICH'S UN MUNDO`}</h2>
+          <h3 className="text-sec text-3xl leading-tight sm:text-5xl lg:text-7xl text-[#D21145] lg:leading-tight text-center">
+            de infinitas posibilidades!
+          </h3>
+          <ul className="flex justify-between my-10 pb-6">
+            <li className="text-[#6F7EAC] text-2xl font-semibold">
+              <span className="text-3xl text-[#D21145] mr-2">•</span>Productos
+              de excelente calidad
+            </li>
+            <li className="text-[#6F7EAC] text-2xl font-semibold">
+              <span className="text-3xl text-[#D21145] mr-2">•</span>Fórmulas
+              innovadoras
+            </li>
+            <li className="text-[#6F7EAC] text-2xl font-semibold">
+              <span className="text-3xl text-[#D21145] mr-2">•</span>Amplia
+              variedad de productos
+            </li>
+          </ul>
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 lg:px-8">
+            <div>
+              <img
+                src="/2/foto_1.png"
+                alt="Hallowen"
+                className="w-full object-cover"
+              />
+            </div>
+            <div>
+              <img
+                src="/2/foto_2.png"
+                alt="Hallowen"
+                className="w-full object-cover"
+              />
+            </div>
+            <div>
+              <img
+                src="/2/foto_3.png"
+                alt="Hallowen"
+                className="w-full object-cover"
+              />
+            </div>
+          </div>
+          <div className="s">
+            <a
+              href="#"
+              className="block w-[90%] max-w-[340px] lg:w-auto lg:max-w-[620px] bg-gradient-to-b from-[#E98030] to-[#D72036]
+								text-white text-xl lg:text-4xl font-bold text-center mx-auto
+								rounded-3xl py-3 px-4 lg:py-4 lg:pb-6 lg:px-6
+								shadow-inner-richs-xl"
+            >
+              ¡CONOCE NUESTROS PRODUCTOS!
+            </a>
+          </div>
         </section>
         <section className="lg:container py-4 lg:py-8 my-4">
           <div className="w-[80%] lg:w-full mx-auto border-b-2 border-[#F60845]"></div>
