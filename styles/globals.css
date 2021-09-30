@@ -59,6 +59,11 @@
   font-weight: 600;
 }
 
+@font-face {
+  font-family: 'drina';
+  src: url('/fonts/drina-regular.otf');
+}
+
 .tk-myriad-pro {
   font-family: 'myriad-pro', sans-serif;
 }
@@ -66,4 +71,8 @@
 html,
 body {
   font-family: myriad-pro, sans-serif;
+}
+
+.text-sec {
+  font-family: 'drina', cursive;
 }

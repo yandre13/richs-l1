@@ -77,8 +77,8 @@ export default function Home() {
           </article>
         </section>
         <section className="container pt-4 pb-12 my-4">
-          <h2 className="text-[40px] leading-none sm:text-4xl lg:text-5xl text-[#F60845] font-bold text-center">{`Encontrá tu punto rich's más cercano`}</h2>
-          <h3 className="text-2xl leading-tight sm:text-3xl lg:text-[32px] text-[#F60845] font-bold lg:leading-snug text-center mt-6 lg:my-2">
+          <h2 className="text-sec text-5xl leading-none sm:text-6xl lg:text-7xl text-[#F60845] text-center">{`Encontrá tu punto rich's más cercano`}</h2>
+          <h3 className="text-2xl leading-tight sm:text-3xl lg:text-[32px] text-[#F60845] md:font-bold lg:leading-snug text-center mt-6 lg:my-2">
             y conseguí todo lo que necesitás para sorprender a mamá en su día.
           </h3>
           <p className="text-lg lg:text-xl text-center my-6">
@@ -94,7 +94,7 @@ export default function Home() {
                 href="#"
                 className="block w-[90%] max-w-[340px] lg:w-auto lg:max-w-xl bg-gradient-to-b from-[#FF6D10] to-[#FB1425]
 								text-white text-xl lg:text-2xl font-bold text-center mx-auto
-								rounded-xl py-3 px-4 lg:py-4 lg:px-5"
+								rounded-xl py-3 px-4 lg:py-4 lg:px-10"
               >
                 NUESTROS PRODUCTOS
               </a>
